@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+}
+#status
+{
+font-size: 21px;
+padding: 15px;
+color: black;
+font-family: 'Tourney', cursive;
+}
